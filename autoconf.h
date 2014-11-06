@@ -10,6 +10,6 @@
 #define CONFIG_ISOLATE_NUM_BOXES 100
 
 /* Root of the cgroup hierarchy. */
-#define CONFIG_ISOLATE_CGROUP_ROOT "/sys/fs/cgroup"
+#define CONFIG_ISOLATE_CGROUP_ROOT "/cgroup"
 
 #endif /* __AUTOCONF_H__ */
